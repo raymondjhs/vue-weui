@@ -1,13 +1,13 @@
-# vue-weui
+# bgapp
 
-weui for vue(vue + vue-router + weui + es6 + webpack)
+基于 Vue WeUI
 
 ## 开发
 
 ```
-git clone https://github.com/aidenzou/vue-weui.git
+git clone https://github.com/raymondjhs/vue-weui.git
 cd vue-weui
-npm install
+cnpm install
 npm run dev
 ```
 运行`npm run dev`命令，会监听目录下所有文件的变更，并且默认会在`8080`端口启动服务器，然后在浏览器打开 `http://localhost:8080`。
